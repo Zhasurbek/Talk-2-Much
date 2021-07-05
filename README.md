@@ -1,7 +1,7 @@
-# flash_chat
+# talk-2-much
 
-A new Flutter project.
-
+The application for group chat "Talk-2-Much". This application allows the user to register , log in and communicate with other participants.
+In this application, I used Firebase to save user data
 ## Getting Started
 
 This project is a starting point for a Flutter application.
